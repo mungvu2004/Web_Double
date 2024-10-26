@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MUNG_WEB\\Web_Double\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\wwwroot\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\wwwroot\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\wwwroot\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\wwwroot\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\wwwroot\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\wwwroot\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|d:\\mung_web\\web_double\\web_double\\views\\home\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794046F4-64D6-4FC7-86AB-3DCDC3010FCC}|Web_Double\\Web_Double.csproj|solutionrelative:web_double\\views\\home\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Web_Double\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Web_Double\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:57:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_Double\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_Double\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwF8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:54:10.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "Web_Double\\wwwroot\\css\\StyleSheet1.css",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\StyleSheet1.css",
+              "RelativeToolTip": "Web_Double\\wwwroot\\css\\StyleSheet1.css",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAALkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T19:52:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_Double\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_Double\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T19:40:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_Double\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web_Double\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T19:40:14.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "Web_Double\\wwwroot\\css\\index.css",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "Web_Double\\wwwroot\\css\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T19:40:07.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.css",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Cart.css",
+              "RelativeDocumentMoniker": "Web_Double\\wwwroot\\css\\Cart.css",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Cart.css",
+              "RelativeToolTip": "Web_Double\\wwwroot\\css\\Cart.css",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T19:09:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Web_Double\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Web_Double\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T18:38:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web_Double\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Web_Double\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T18:21:58.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.css",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Details.css",
+              "RelativeDocumentMoniker": "Web_Double\\wwwroot\\css\\Details.css",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Details.css",
+              "RelativeToolTip": "Web_Double\\wwwroot\\css\\Details.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T18:21:55.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.css",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Register.css",
+              "RelativeDocumentMoniker": "Web_Double\\wwwroot\\css\\Register.css",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Register.css",
+              "RelativeToolTip": "Web_Double\\wwwroot\\css\\Register.css",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T18:12:06.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.css",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "Web_Double\\wwwroot\\css\\Login.css",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "Web_Double\\wwwroot\\css\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T18:11:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "Web_Double\\Views\\Home\\AllProduct.cshtml",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Home\\AllProduct.cshtml",
+              "RelativeToolTip": "Web_Double\\Views\\Home\\AllProduct.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T18:09:42.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web_Double\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\MUNG_WEB\\Web_Double\\Web_Double\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Web_Double\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T18:07:51.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
